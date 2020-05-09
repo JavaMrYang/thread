@@ -25,7 +25,7 @@ public class ThreadJoinVisibility {
     thread.start();
 
     try {
-      thread.join();
+      thread.join(); //等待让子线程进来执行，不然data就是主线程的值
     } catch (InterruptedException e) {
       e.printStackTrace();
     }
