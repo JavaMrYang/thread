@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7899d4cd-0f66-4bea-85b5-b788c796337b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.study/thread02/JITReorderingDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.study/thread02/SpeculativeLoadExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.study/thread02/ThreadJoinVisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.study/thread02/ThreadJoinVisibility.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,16 +41,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="3268" />
-          <entry key="md" value="1005" />
+          <entry key="java" value="3273" />
+          <entry key="md" value="1172" />
           <entry key="txt" value="7" />
           <entry key="xml" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3268" />
-          <entry key="Markdown" value="1005" />
+          <entry key="JAVA" value="3273" />
+          <entry key="Markdown" value="1172" />
           <entry key="PLAIN_TEXT" value="23" />
           <entry key="XML" value="22" />
         </counts>
@@ -76,8 +72,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="309">
-                <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <first_editor relative-caret-position="347">
+                <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreate03.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="152">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -129,8 +125,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/doc/thread_lock.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -204,7 +200,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreate01.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreate02.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadStart.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreate03.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreationCmp.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/SimpleTimer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/FileDownloaderApp.java" />
@@ -218,9 +213,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com.study/util/DESEncryption.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread02/ThreadJoinVisibility.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread02/JITReorderingDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.study/thread02/SpeculativeLoadExample.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreate03.java" />
         <option value="$PROJECT_DIR$/src/main/resources/doc/thread_lock.md" />
       </list>
     </option>
@@ -288,6 +284,23 @@
               <item name="thread_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thread_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thread_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.study" type="462c0819:PsiDirectoryNode" />
+              <item name="thread01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thread_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thread_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -307,7 +320,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589009839971" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589010713021" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github/javamtia" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -438,7 +451,7 @@
       <updated>1588396591117</updated>
       <workItem from="1588396596063" duration="16500000" />
       <workItem from="1588688256440" duration="627000" />
-      <workItem from="1589004723142" duration="5088000" />
+      <workItem from="1589004723142" duration="5480000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1588587741776</created>
@@ -447,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1588587741776</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1589010670447</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589010670448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22215000" />
+    <option name="totallyTimeSpent" value="22607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -677,27 +697,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="309">
-            <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreationCmp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreate03.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -737,11 +740,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.study/thread01/ThreadCreate03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="347">
+            <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/doc/thread_lock.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="54" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>
