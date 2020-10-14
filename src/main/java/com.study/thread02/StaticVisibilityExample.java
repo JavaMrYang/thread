@@ -43,5 +43,6 @@ public class StaticVisibilityExample {
 
   public static void main(String[] args) {
     new StaticVisibilityExample();
+    init();
   }
 }
